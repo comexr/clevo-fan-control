@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chmod 644 /etc/xdg/autostart/clevo-fan-control.desktop || echo "something went wrong with permissions"
+exit 0

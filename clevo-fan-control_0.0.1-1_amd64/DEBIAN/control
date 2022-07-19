@@ -1,0 +1,7 @@
+Package: clevo-fan-control
+Version: 0.0.1
+Maintainer: Laurens Bruins <l.bruins@laptopwithlinux.com>
+Depends: libc6
+Architecture: amd64
+Homepage: http://laptopwithlinux.com/
+Description: Fan driver for Clevo notebooks with loud default fans
