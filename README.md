@@ -3,7 +3,7 @@ Clevo Fan Control Indicator for Ubuntu
 
 This program is an Ubuntu driver to control the fan of Clevo laptops, using reversed-engineering port information from ECView.
 
-For command-line, use *-h* to display help, or a number representing percentage of fan duty to control the fan (from 40% to 100%).
+For command-line, use *-h* to display help, or a number representing percentage of fan duty to control the fan (from 20% to 100%).
 
 
 Build and Install
