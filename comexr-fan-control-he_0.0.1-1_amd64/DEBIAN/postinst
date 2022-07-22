@@ -1,6 +1,6 @@
 #!/bin/bash
 
 chmod 644 /etc/xdg/autostart/comexr-fan-control-he.desktop || echo "something went wrong with permissions"
-chown root /usr/local/bin/comexr-fan-control
-chmod u+s /usr/local/bin/comexr-fan-control
+chown root /usr/local/bin/comexr-fan-control-he
+chmod u+s /usr/local/bin/comexr-fan-control-he
 exit 0
