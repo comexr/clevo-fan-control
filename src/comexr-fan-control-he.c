@@ -1,9 +1,9 @@
 /*
  ============================================================================
- Name        : clevo-fan-control.c
+ Name        : comexr-fan-control-he.c
  Author      : Laurens Bruins <l.bruins@laptopwithlinux.com>
  Version     : 01
- Description : Ubuntu fan control driver for Clevo laptops
+ Description : Ubuntu fan control driver for high end Clevo laptops
 
  Based on https://github.com/SkyLandTW/clevo-indicator by AqD 
  (iiiaqd@gmail.com)
