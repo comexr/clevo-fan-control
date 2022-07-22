@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=comexr-fan-control-he
+Comment=Driver for fans on high end Clevo machines
+Path=/usr/local/bin
+Exec=comexr-fan-control-he
+Terminal=false
