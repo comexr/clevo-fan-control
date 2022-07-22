@@ -11,8 +11,8 @@ Build and Install
 
 ```shell
 sudo apt-get install build-essential
-git clone https://github.com/comexr/clevo-fan-control.git
-cd clevo-fan-control
+git clone https://github.com/comexr/comexr-fan-control-he.git
+cd comexr-fan-control-he
 make install
 ```
 

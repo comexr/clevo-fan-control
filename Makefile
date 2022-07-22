@@ -8,10 +8,10 @@ DSTDIR := /usr/local
 OBJDIR := obj
 SRCDIR := src
 
-SRC = clevo-fan-control.c
+SRC = comexr-fan-control-he.c
 OBJ = $(patsubst %.c,$(OBJDIR)/%.o,$(SRC)) 
 
-TARGET = ./build/usr/local/bin/clevo-fan-control
+TARGET = ./build/usr/local/bin/comexr-fan-control-he
 
 all: $(TARGET)
 
