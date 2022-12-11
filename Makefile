@@ -27,6 +27,7 @@ test: $(TARGET)
 $(TARGET): $(OBJ) Makefile
 	@mkdir -p bin
 	@echo linking $(TARGET) from $(OBJ)
+	mkdir -p ./build/usr/local/bin
 	@$(CC) $(OBJ) -o $(TARGET) $(LDFLAGS) -lm
 
 clean:
